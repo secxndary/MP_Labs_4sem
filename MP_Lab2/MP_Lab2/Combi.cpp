@@ -1,6 +1,7 @@
 // Combi.cpp      
 #include "Combi.h"
 #include <algorithm>
+
 namespace combi
 {
     subset::subset(short n)

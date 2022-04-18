@@ -1,4 +1,4 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Combinations.vcxproj, MP_Lab2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
   Combi.cpp
-C:\Users\valda\source\repos\semester #4\MP_Labs\MP_Lab2\MP_Lab2\Combi.cpp(41,48): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+C:\Users\valda\source\repos\semester #4\MP_Labs\MP_Lab2\MP_Lab2\Combi.cpp(42,48): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
   MP_Lab2.vcxproj -> C:\Users\valda\source\repos\semester #4\MP_Labs\MP_Lab2\x64\Debug\1. Podmnozhestva.exe
