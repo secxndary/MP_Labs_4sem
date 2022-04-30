@@ -1,0 +1,3 @@
+﻿  LCSMain.cpp
+C:\Users\valda\source\repos\semester #4\MP_Labs\MP_Lab4\LCS\LCSMain.cpp(49,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LCS.vcxproj -> C:\Users\valda\source\repos\semester #4\MP_Labs\MP_Lab4\x64\Debug\LCS.exe
